@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Stock Hawk</string>
+
+    <string name="action_example">Example action</string>
+
+    <string name="action_settings">Settings</string>
+    <string name="action_change_units">Change Units</string>
+    <string name="symbol_search">Symbol Search</string>
+    <string name="content_test">Search for a Stock Symbol</string>
+    <string name="input_hint">FB</string>
+    <string name="input_prefill"></string>
+    <string name="network_toast">Uh-oh! This app requires an internet connection</string>
+    <string name="title_activity_stocks_graph">StocksGraphActivity</string>
+    <string name="title_activity_stock_graph">StockGraphActivity</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="title_activity_graph">GraphActivity</string>
+    <string name="title_activity_line_graph">Loading&#8230;</string>
+    <string name="add_stock">Add Stocks</string>
+    <string name="detail_stock_graph">view line graph for stock</string>
+    <string name="stocks">Stock List</string>
+    <string name="existingStockmessage">This stock is already saved!</string>
+    <string name="newstock">Press the + button to add a stock</string>
+    <string name="widget_title">Stock Today</string>
+    <string name="stock_symbol">Stock Symbol</string>
+    <string name="bid_price">bid pricee</string>
+    <string name="change">Change</string>
+</resources>
